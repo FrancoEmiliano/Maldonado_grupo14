@@ -1,0 +1,51 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+footer{
+    background: grey;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 50px;
+    text-shadow: 30px 5px 10px;
+}
+
+h3{
+    color: black;
+}
+
+.TitBurl{
+    color: burlywood;
+}
+
+#parrafoAzul{
+    color: blue;
+}
+
+
+*{
+    margin:0;
+    padding:0;
+}
+
+div{
+    border:solid 1px black;
+}
+
+button a{
+    text-decoration: none;
+    color: black;
+}
+
+button :hover{
+    background: blue;
+    color: white;
+}
+
+iframe{
+    align-items: center;
+}
